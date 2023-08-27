@@ -1,0 +1,28 @@
+{
+  "templates": [
+    {
+      "name": "template 1",
+      "link": "https://fadhilsaheer.tech",
+      "image": "sample.png",
+      "price": 2000
+    },
+    {
+      "name": "template 1",
+      "link": "https://fadhilsaheer.tech",
+      "image": "sample.png",
+      "price": 2000
+    },
+    {
+      "name": "template 1",
+      "link": "https://fadhilsaheer.tech",
+      "image": "sample.png",
+      "price": 2000
+    },
+    {
+      "name": "template 1",
+      "link": "https://fadhilsaheer.tech",
+      "image": "sample.png",
+      "price": 2000
+    }
+  ]
+}
